@@ -1,6 +1,6 @@
 # Open Historia: Play over Discord
 
-Play Open Historia shared games in Discord. Each channel holds one game for up to
+Play [Open Historia](https://github.com/Open-Historia/open-historia) shared games in Discord. Each channel holds one game for up to
 8 players, and each player leads a country. Players send orders with slash
 commands or from their own world page. The game's own engine plays each round
 with the AI model the game's lead picks, and the bot posts the news in the channel.
