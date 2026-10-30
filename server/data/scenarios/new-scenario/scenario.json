@@ -1,0 +1,58 @@
+{
+  "accentColor": "#813d9c",
+  "coverImageContentType": "image/png",
+  "countryNameOverrides": {},
+  "createdAt": "2026-10-26T07:00:38.890Z",
+  "description": "New Scenario",
+  "eyebrow": "Scenario",
+  "features": {
+    "espionage": {
+      "enabled": true
+    },
+    "groups": {
+      "enabled": true
+    },
+    "fronts": {
+      "enabled": true,
+      "pace": 100
+    },
+    "listenIn": {
+      "enabled": true
+    },
+    "idleDiplomacy": {
+      "enabled": true,
+      "averageMinutes": 8
+    },
+    "pregameHistory": {
+      "enabled": true
+    },
+    "worldDirection": {
+      "enabled": true,
+      "eventPace": 100,
+      "worldShare": 35,
+      "priorityRules": "",
+      "scriptedEvents": [],
+      "territoryTempo": 0
+    },
+    "playerFocus": {
+      "enabled": true,
+      "level": "balanced"
+    }
+  },
+  "heroSubtitle": "Fantasy scenario",
+  "heroTitle": "fantasi",
+  "hubOrigin": null,
+  "hubPublished": {
+    "key": "oh-07dc7664a3878fe5",
+    "publishedAt": "2026-10-26T14:37:24.725Z",
+    "postIds": [],
+    "suggestions": []
+  },
+  "hubReviews": {},
+  "hubUnlinked": null,
+  "id": "new-scenario",
+  "name": "fantasi",
+  "playCount": 8,
+  "subtitle": "Base template",
+  "updatedAt": "2026-10-27T14:19:44.686Z"
+}

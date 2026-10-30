@@ -1,0 +1,9 @@
+{
+  "activeScenarioId": "new-scenario",
+  "order": [
+    "new-scenario",
+    "fantasi-copy"
+  ],
+  "selectedScenarioId": "new-scenario",
+  "version": 2
+}

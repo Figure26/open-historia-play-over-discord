@@ -1,0 +1,51 @@
+{
+  "Aldermere": [
+    "Humans"
+  ],
+  "Westmarch": [
+    "Humans"
+  ],
+  "Hollowcrown": [
+    "Humans"
+  ],
+  "Thornwatch": [
+    "Humans"
+  ],
+  "Sunvale": [
+    "Humans"
+  ],
+  "The Iron Horde of Gor-Vathra": [
+    "Orcs"
+  ],
+  "The Coven-Realm of Morrowgast": [
+    "Humans"
+  ],
+  "The Glass Republic of Veyl": [
+    "Humans",
+    "Dwarves",
+    "Elves"
+  ],
+  "The Deepholds of Karak Dûm": [
+    "Dwarves"
+  ],
+  "The Elderwood": [
+    "Elves"
+  ],
+  "The Brotherhood of the Salt Isles": [
+    "Humans",
+    "Orcs"
+  ],
+  "The Order of the Lantern": [
+    "Humans"
+  ],
+  "The Free Clans of the Lakeshore": [
+    "Humans"
+  ],
+  "The Ashen Exiles": [
+    "Orcs"
+  ],
+  "The Conclave of the Lake": [
+    "Humans",
+    "Wizards"
+  ]
+}

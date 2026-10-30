@@ -1,0 +1,1 @@
+import{rn as i}from"./panel.js";const r=/^(image\/[\w.+*-]+|\.(avif|bmp|gif|jpe?g|png|svg|webp))$/i,s=e=>{const t=String(e??"").split(",").map(n=>n.trim()).filter(Boolean);return t.length>0&&t.every(n=>r.test(n))},o=(e,{native:t=i()}={})=>t&&!s(e)?void 0:e;export{o as a};

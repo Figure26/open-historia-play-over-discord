@@ -1,0 +1,13 @@
+{
+  "name": "open-historia-discord-bot-spike",
+  "private": true,
+  "type": "module",
+  "description": "Spike: Open Historia shared games played in Discord channels, on the headless engine (spikes/headless).",
+  "scripts": {
+    "start": "node bot.mjs",
+    "demo": "OH_HEADLESS_AI=mock-answer node demo-core.mjs"
+  },
+  "dependencies": {
+    "discord.js": "14.27.0"
+  }
+}
